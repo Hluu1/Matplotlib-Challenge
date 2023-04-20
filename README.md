@@ -8,4 +8,4 @@ So then what I have done to tackle on this assignment is that I had to prepare t
 I generated summary statistics and plotted them in a Bar and Pie Charts.
 followed by calculating the quartiles, outliers and then placing these datas into a box plot to properly visualise the data.
 I then created a line and a scatter plot to view the data from another point of view and based on that, calculated the correlation and regressioin of the datas inputted.
-Only then when I finsihed preparing the data, I was able to make my analysis on the study.
+Only then when I finished preparing the data, I was able to make my analysis on the study.
